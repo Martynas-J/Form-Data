@@ -1,0 +1,20 @@
+[
+  {
+    "name": "jonas",
+    "email": "jonas@gmail.com",
+    "password": "$2a$05$W81XfNCcpSBhuYYd4vqRDueO0ikYjxuTkShG4oefPQWpOGgVGpThK",
+    "isAdmin": true
+  },
+  {
+    "name": "Simas",
+    "email": "ass@gmail.com",
+    "password": "$2a$05$fLTdJ6srrajMAdmXIXv7HeexcYEHdQqZAzheXG.R3lrJEs8Pz1wzm",
+    "isAdmin": true
+  },
+  {
+    "name": "dfgh222hhdf",
+    "email": "gh22hfd@hd",
+    "password": "$2a$05$vgbxYc6CYB0y8K4wcIsng.jUlEHQ5VLbff.kux.pe1ys1OP7gxXZy",
+    "isAdmin": true
+  }
+]
