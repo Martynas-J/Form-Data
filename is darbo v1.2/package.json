@@ -1,0 +1,29 @@
+{
+  "name": "test2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "date-fns": "^3.0.2-rc.1",
+    "mariadb": "^3.3.0",
+    "next": "^14.1.3",
+    "next-auth": "^4.24.7",
+    "react": "^18.2.0",
+    "react-datepicker": "^6.9.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
